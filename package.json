@@ -1,0 +1,28 @@
+{
+  "name": "turnauctionplatformtest",
+  "version": "1.0.0",
+  "description": "Platform to test different turn auctions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjansen23/TurnAuctionPlatformTest.git"
+  },
+  "author": "Wjansen23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjansen23/TurnAuctionPlatformTest/issues"
+  },
+  "homepage": "https://github.com/wjansen23/TurnAuctionPlatformTest#readme",
+  "devDependencies": {
+    "concurrently": "^6.4.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
